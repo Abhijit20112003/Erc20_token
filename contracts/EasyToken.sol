@@ -7,3 +7,4 @@ contract EasyToken is ERC20 {
         _mint(msg.sender, 1000000000000000000000000);
     }
 }
+// checkout new version
